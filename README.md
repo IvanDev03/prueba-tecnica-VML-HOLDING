@@ -2,7 +2,7 @@
 <h2>Como hacerlo funcionar?</h2>
 <p>Primero debemos clonar el repositorio</p>
  <ul>
-   <li><code>git clone https://github.com/IvanDev03/chatbot.git </code></li>
+   <li><code>https://github.com/IvanDev03/prueba-tecnica-VML-Holding.git </code></li>
  </ul>
 <h3>Base de Datos</h3>
  <p>Este proyecto esta hecho en una base de datos relacional especificamente en postgres
